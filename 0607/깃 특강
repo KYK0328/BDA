@@ -5,7 +5,7 @@
 print('hello world')
 
 ## List 
-목록은 'ul' 혹은 'ol' 태그로 표현됨. 
+목록은 'ul' 혹은 'ol' 태그로 표현됨.  
 
 ## hyperlink/ 파일 연동
 - [구글](http://google.com)
