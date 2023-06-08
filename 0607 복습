@@ -19,5 +19,7 @@
 | git init  | 로컬 저장소 생성|
 | git add 파일명  | 특정 파일의 변경사항 추가 |
 | git commit -m '(메세지)' |   커밋_버전기록 |
+| git remote add origin <원격저장소주소> | 원격 저장소 추가 |
+| git push -u origin main | 원격 저장소에 push |
 | git status  |  상태확인 (습관적으로 확인하는게 좋음)|
 | git log   |  버전확인|
