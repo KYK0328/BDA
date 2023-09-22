@@ -1,2 +1,2 @@
-### TIL
-Today I learned... in dsde 27회차
+### BDA 5-6기
+
